@@ -1,0 +1,5 @@
+When you enter buy, the program asks you which type of coffee you want. Here you can enter either latte,cappuccino or espresso .
+Each coffee has different requirements for the supplies it needs to make a coffee.
+If there are not enough supplies available, in the coffee machine, then no coffee is made and a prompt appears.
+If there are enough supplies, the requirements for your selected coffee get deducted from the supplies available and a prompt showing it was successful appears.
+Remaining display the current quantities of supplies for each of the materials in the coffee machine. Such as water, milk, coffee beans, cups, and money.
